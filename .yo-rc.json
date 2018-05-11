@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Aaron Janse",
+      "authorEmail": "gitduino@gmail.com",
+      "authorUrl": "https://ajanse.me"
+    }
+  }
+}
