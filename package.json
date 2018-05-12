@@ -1,6 +1,6 @@
 {
   "name": "generator-chisel-hdl",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A generator for Chisel boilerplate. Based on https://github.com/ucb-bar/chisel-template",
   "homepage": "https://github.com/aaronduino/yo-chisel",
   "author": {
